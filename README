@@ -1,0 +1,9 @@
+# Convert readme.io exported docs to github markdown
+
+## Usage
+
+	./readme_io-to-markdown.py v1.0/docs/first-steps.md
+
+	./readme_io-to-markdown.py v1.0/docs/*.md
+
+* Modifies files in place *
